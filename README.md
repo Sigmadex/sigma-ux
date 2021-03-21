@@ -2,4 +2,12 @@
 
 # Getting Started
 
-Responsive front-end for web3 interface.
+Responsive front-end for web3 interface optimized for the following devices:
+
+* iOS/Android
+  * Tablet
+  * Mobile
+* Desktop
+  * Windows
+  * Linux
+  * Mac OS

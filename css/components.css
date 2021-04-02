@@ -1219,3 +1219,16 @@ textarea.w-select {
   overflow-x: auto;
   overflow-y: hidden;
 }
+.w-lightbox-item {
+  display: inline-block;
+  width: 10vh;
+  padding: 2vh 1vh;
+  box-sizing: content-box;
+  /* 1 */
+  cursor: pointer;
+  -webkit-transform: translate3d(0, 0, 0);
+  /* 2 */
+}
+.w-lightbox-active {
+  opacity: .3;
+}

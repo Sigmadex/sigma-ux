@@ -1606,3 +1606,6 @@ textarea.w-select {
     display: block;
   }
 }
+.w-tabs {
+  position: relative;
+}

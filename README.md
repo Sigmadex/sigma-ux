@@ -1,5 +1,6 @@
-<br>
+<br><br>
 <img src="https://i.imgur.com/PwOJmQN.png" width="200px">
+<br><br>
 
 # Getting Started
 

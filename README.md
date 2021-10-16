@@ -14,7 +14,7 @@ Responsive front-end for web3 interface optimized for the following devices:
   * Linux
   * Mac OS
 
-### Sigmadex Resources
+## Sigmadex Resources
 
 https://sigmadex.org<br>
 https://blog.sigmadex.org<br>
